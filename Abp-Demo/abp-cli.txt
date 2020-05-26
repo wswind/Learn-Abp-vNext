@@ -1,0 +1,2 @@
+abp new Acme.BookStoreSeparateIds -t app -u angular --separate-identity-server 
+abp new Acme.BookStore -t app -u angular
